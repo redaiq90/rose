@@ -90,13 +90,7 @@
         "version": "12"
       }
     }
-  ],
-  "stack": "heroku-20",
-  "buildpacks": [],
-  "formation": {
-    "web": {
-      "quantity": 1,
-      "size": "free"
+  ]
     }
   }
 }
